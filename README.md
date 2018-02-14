@@ -1,7 +1,9 @@
 Sprint0
 
 Component 2 task for Business Informatics T(16)
+
 ![Logo](\Users\User\Desktop\c2-675px.png)
+![alt text](http://url/to/c2-675px.png)
 
 This repository contains the README.md file for the group c2 
 
