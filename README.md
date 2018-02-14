@@ -5,8 +5,9 @@
 ![Logo](http://c2gps.com/wp-content/uploads/2016/06/c2-675px.png)
 
 
+## Getting started:
 
-This repository contains the README.md file for the group c2 and the logo of the component
+This repository contains the README.md file for the group c2 and the logo of our group
 
 
 ### Authors:
@@ -34,5 +35,7 @@ Farah Ahmed business informatics student
 
 Omar Kaddah business informatics student
 
-The purpose of this repository is to organize 
+We are all business informatics students in the GUC 6th semester aiming to achieve the best possible outcome of the SE course with a vision to succeed in this field in the future hopefully
+
+The purpose of this repository is to organize all our group tasks together and to be able to efficiently work in cohesion 
  
