@@ -1,7 +1,9 @@
 Sprint0
 
 Component 2 task for Business Informatics T(16)
-https://c2gps.com/
+
+![alt tag](https://c2gps.com/)
+
 
 
 This repository contains the README.md file for the group c2 
