@@ -2,7 +2,7 @@ Sprint0
 
 Component 2 task for Business Informatics T(16)
 
-![alt tag](https://c2gps.com/)
+![Logo](https://c2gps.com/)
 
 
 
