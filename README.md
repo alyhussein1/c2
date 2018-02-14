@@ -4,7 +4,7 @@ Component 2 task for Business Informatics T(16)
 
 ![Logo](/Users/User/Desktop/c2-675px.png)
 ![alt text](/Users/User/Desktop/c2-675px.png)
-![alt tag](http://url/to/c2/c2-675px.png.png)
+![Logo](http://url/to/c2/c2-675px.png.png)
 This repository contains the README.md file for the group c2 
 
 Authors:
