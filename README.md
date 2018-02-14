@@ -2,10 +2,12 @@ Sprint0
 
 Component 2 task for Business Informatics T(16)
 
-![Logo](/Users/User/Desktop/c2-675px.png)
-![alt text](/Users/User/Desktop/c2-675px.png)
-![Logo](http://url/to/c2/c2-675px.png.png)
+
+![Logo](http://url/to/c2/c2-675px.png)
 This repository contains the README.md file for the group c2 
+BI16-SE/images/logo.png
+
+![Logo](/images/logo.png)
 
 Authors:
 Aly Hussein 37-1116
