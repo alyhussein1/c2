@@ -21,6 +21,7 @@ Purpose:
 Aly Hussein business informatics student 
 Dana Alaa business informatics student 
 Youssef Khaked business informatics student
-Farah ahme
+Farah Ahmed business informatics student
+Omar Kaddah business informatics student
 
  
