@@ -9,11 +9,15 @@ Component 2 task for Business Informatics T(16)
 This repository contains the README.md file for the group c2 
 
 
-Authors:
+### Authors:
 Aly Hussein 37-1116
+
 Youssef Khaled 37-2598
+
 Dana Alaa 37-16350
+
 Farah Ahmed 34-2651
+
 Omar Kaddah 37-9767
 
 
