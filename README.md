@@ -38,4 +38,5 @@ Omar Kaddah business informatics student
 We are all business informatics students in the GUC 6th semester aiming to achieve the best possible outcome of the SE course with a vision to succeed in this field in the future hopefully
 
 The purpose of this repository is to organize all our group tasks together and to be able to efficiently work in cohesion 
+sda
  
