@@ -39,3 +39,4 @@ We are all business informatics students in the GUC 6th semester aiming to achie
 
 The purpose of this repository is to organize all our group tasks together and to be able to efficiently work in cohesion 
  
+khbjhvh
